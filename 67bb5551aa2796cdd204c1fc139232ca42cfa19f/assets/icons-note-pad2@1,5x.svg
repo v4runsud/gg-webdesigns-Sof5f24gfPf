@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="31px" height="27px" viewBox="0 0 31 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
     <title>icons-note-pad2@1,5x</title>
-    <desc>Created with Sketch.</desc>
-    <g id="MOCK-UP-V25" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="011-list-products-cards-view---Desktop---001" transform="translate(-1262.000000, -1377.000000)">
-            <g id="icons-note-pad2" transform="translate(1262.000000, 1377.000000)">
+    <g id="2---IN-PROGRESS-(not-validated)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="022--Comparator--popup-1.2---desk-001-Copy" transform="translate(-1262.000000, -894.000000)">
+            <g id="icons-note-pad2" transform="translate(1262.000000, 894.000000)">
                 <path d="M18.2568667,4.52970994e-13 C19.5134972,4.52970994e-13 20.5539766,0.936770833 20.6385015,2.21182002 L20.6440444,2.38 L20.6442618,4.00690176 C15.8385973,4.19369536 12,8.14857146 12,13 C12,17.8514285 15.8385973,21.8063046 20.6442618,21.9930982 L20.6440444,24.14 L20.6776667,24.14 C20.6104222,25.5 19.5681333,26.52 18.2904889,26.52 L2.45442222,26.52 C1.10953333,26.52 1.12088117e-12,25.534 1.12088117e-12,24.174 L1.12088117e-12,8.738 L6.08562222,2.38 L8.50642222,4.52970994e-13 L18.2568667,4.52970994e-13 Z M8.47121033,1.8 L1.47121033,8.8 L8.47121033,8.8 L8.47121033,1.8 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
                 <circle id="Oval" stroke="#FFFFFF" stroke-width="1.2" cx="21" cy="13" r="9"></circle>
                 <rect id="Rectangle" fill="#FFFFFF" x="16" y="12" width="10" height="2.5"></rect>
